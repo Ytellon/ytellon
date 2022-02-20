@@ -12,7 +12,7 @@
   <img align="center" alt="yt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="yt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="yt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="yt-pic" height="150" style="border-radius:50%;" src="<img src="https://media3.giphy.com/media/LVRj5l9vo420pHt4o7/giphy.gif?cid=ecf05e47aqk3l8v6lctbh1aq2gl7sobvn5wzvasap2qsmywg&rid=giphy.gif&ct=g"
+  <img align="right" alt="yt-pic" height="150" style="border-radius:50%;" src="<img src="https://media3.giphy.com/media/LVRj5l9vo420pHt4o7/giphy.gif?">
   
  ##
   
