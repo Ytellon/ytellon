@@ -10,7 +10,7 @@
   <img align="center" alt="yt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="yt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="yt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="yt-pic" height="150" style="border-radius:50%;" src="<img src="https://media3.giphy.com/media/LVRj5l9vo420pHt4o7/giphy.gif>
+  <img align="right" alt="yt-pic" height="150" style="border-radius:50%;" src="<img src="https://c.tenor.com/j9_ogHluAe0AAAAC/scarlet-witch-doctor-strange-in-the-multiverse-of-madness.gif>
   
  ##
   
