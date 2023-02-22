@@ -1,5 +1,10 @@
 ### Ytellon Macedo
 
+---
+
+<img src="https://media.licdn.com/dms/image/D4D16AQFX_oE3E8pAhQ/profile-displaybackgroundimage-shrink_350_1400/0/1677086933530?e=1682553600&v=beta&t=u9fYCGJ1VOxeaLDGFdfkHg0dKngRDuGDyJ1BghXG3Dc">
+
+---
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="200px" align="right" alt="Computador iuriCode">
 
 <div align="left">
