@@ -4,7 +4,6 @@
 <img src="https://github.com/Ytellon/ytellon/blob/main/YTELLON%20MACEDO.png?raw=true">
 
 ---
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="200px" align="right" alt="Computador iuriCode">
 
 <div align="left">
 
@@ -12,7 +11,7 @@ Entusiasta das melhores tecnologias de desenvolvimento.
 
 Sou apaixonado por descobrir novas tecnologias e inovações que possam ajudar a resolver problemas complexos da sociedade e impactar positivamente a vida das pessoas.
 
-"Talent is formed by technique and skill, but above all by passion and persistence"
+  <strong><em>"Talent is formed by technique and skill, but above all by passion and persistence"</em></strong>
   
  </div>
 
@@ -20,24 +19,107 @@ Sou apaixonado por descobrir novas tecnologias e inovações que possam ajudar a
 -----
 
 <div align="center">
-  <a href="https://github.com/ytellon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ytellon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytellon&layout=compact&langs_count=7&theme=dark"/>
+
+[![](https://raw.githubusercontent.com/Ytellon/ytellon/main/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ytellon/ytellon/main/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ytellon/ytellon/main/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Ytellon/ytellon/main/profile-summary-card-output/zenburn/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ytellon/ytellon/main/profile-summary-card-output/zenburn/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
   
 -----
  
-<section align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+      alt="node"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+      alt="postgress"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"
+      alt="sequelize"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind css"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
-</section>
   
 -----
   
