@@ -7,10 +7,6 @@
 
 <div align="left">
 
-Entusiasta das melhores tecnologias de desenvolvimento.
-
-Sou apaixonado por descobrir novas tecnologias e inovações que possam ajudar a resolver problemas complexos da sociedade e impactar positivamente a vida das pessoas.
-
   <strong><em>"Talent is formed by technique and skill, but above all by passion and persistence"</em></strong>
   
  </div>
