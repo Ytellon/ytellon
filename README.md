@@ -8,6 +8,17 @@
 <div align="left">
 
   <strong><em>"Talent is formed by technique and skill, but above all by passion and persistence"</em></strong>
+
+---
+
+<div>
+  <li>
+   Formado em desenvolvimento web Full stack na Trybe
+  </li>
+  <li>
+    Cursando ciência da computação da Faculdade Descomplica
+  </li>
+</div>
   
  </div>
 
